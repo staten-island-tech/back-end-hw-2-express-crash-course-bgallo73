@@ -1,0 +1,23 @@
+{
+  "name": "back-end-hw-2-express-crash-course-bgallo73",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/back-end-hw-2-express-crash-course-bgallo73.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/back-end-hw-2-express-crash-course-bgallo73/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/back-end-hw-2-express-crash-course-bgallo73#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
